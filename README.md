@@ -14,6 +14,7 @@ My solutions for Quera College course >>  https://quera.ir/college/
 - Quera3_3 : جاده کشی
 - Quera3_4 : ساده تر
 - Quera3_5 : یک ساعت
+- Quera3_6 : کِوین و قدرت شالاپ
 
 ## ساختار شرط
 - Quera4_1 : دو نقطه خط
